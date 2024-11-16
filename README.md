@@ -1,4 +1,4 @@
-
+# DATE:29-08-2024
 # Ex.No:2 Develop an application that uses GUI Components with Fonts and Colors
 
 
@@ -44,8 +44,8 @@ Step 6:Close the Android project.
  ```
 /*
 Program to Develop an application that uses Font Size using Android Studio .
-Developed by: Praveena N
-RegisterNumber: 212222040122
+Developed by: PRAVEENA N
+RegisterNumber:  212222040122
 */
 ```
 
@@ -115,7 +115,6 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-
 ## activity_main.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -154,14 +153,9 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/ba18aa80-c85c-48e3-b18b-ecf0d89a5fff)
-
-
-![image](https://github.com/user-attachments/assets/ec5e54df-224c-4f19-8714-844fcf4b2a5c)
-
-
-![image](https://github.com/user-attachments/assets/656570dd-c870-4a3a-b9ce-5cb2fdc7f8ca)
-
+![image](https://github.com/user-attachments/assets/c4462122-94b4-417b-9b14-a21f77424965)
+![image](https://github.com/user-attachments/assets/18ded089-316e-4287-a3c8-698eb56a0949)
+![image](https://github.com/user-attachments/assets/906a5874-9f18-4483-9283-dd6aa197084a)
 
 
 ## Result:
